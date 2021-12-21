@@ -1,4 +1,4 @@
-#footer {
+footer#footer p {
     text-align: center;
     position: fixed;
     height: 50px;
@@ -8,4 +8,12 @@
     margin-bottom: 0px;
     padding-top: 20px;
     color: rgba(255,255,255,.55);
+}
+
+.img{
+    background-image: url(../assets/download.jfif);
+    opacity: 0.3;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
 }
